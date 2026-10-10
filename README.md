@@ -303,5 +303,7 @@ If you want a hosting platform that matches that approach, QloudHost's [Plex VPS
 [![Get Plex VPS](https://img.shields.io/badge/Get%20Started-QloudHost%20Plex%20VPS-2E7D32?style=for-the-badge)](https://qloudhost.com/offshore-vps-hosting/plex)
  
 </div>
+
 > [!IMPORTANT]
+
 > **Found this guide useful?** ⭐ Star this repository, 🍴 share it with a fellow Plex fan, and drop your questions in the Issues tab. Happy streaming! 🎉
